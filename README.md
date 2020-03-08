@@ -8,8 +8,8 @@
 
 It is a sample program of App Inventor that displays "Hello World".
 
-* .aia is a file that can be read as a project in App Inventor.
+*.aia is a file that can be read as a project in App Inventor.
 
-* .apk is a file that can be installed on an Android device.
+*.apk is a file that can be installed on an Android device.
 
 
